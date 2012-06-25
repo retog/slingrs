@@ -25,7 +25,7 @@ import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import org.apache.sling.jaxrs.wink.WinkRequestProcessor;
+import org.apache.wink.osgi.WinkRequestProcessor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

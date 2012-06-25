@@ -1,6 +1,7 @@
 Apache Sling Engine
 
-Provides support for jax-rs resource classes in sling.
+Provides support for jax-rs resource classes in sling. It is based on and 
+requires the artifact mvn:org.apache.wink:wink-osgi
 
 Getting Started
 ===============
